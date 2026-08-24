@@ -1,0 +1,28 @@
+# 每周从雷达真身同步 README——仓库只是镜像，数据永远只有 tokens.sjms.ai 一份。
+name: sync-from-radar
+on:
+  schedule:
+    - cron: '45 2 * * 1'   # 周一 10:45 北京时间（雷达 09:30 扫完之后）
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: pull latest README from the radar
+        run: |
+          curl -fsS --max-time 60 https://tokens.sjms.ai/README.md -o README.md \
+            || curl -fsS --max-time 60 https://token-radar-glx6unxgra-de.a.run.app/README.md -o README.md
+      - name: commit if changed
+        run: |
+          if ! git diff --quiet README.md; then
+            git config user.name 'radar-sync'
+            git config user.email 'actions@users.noreply.github.com'
+            git add README.md
+            git commit -m "sync: $(date -u +%F)"
+            git push
+          else
+            echo "README unchanged, nothing to commit"
+          fi
