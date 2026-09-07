@@ -5,7 +5,7 @@
 
 **在线版（手机友好，随雷达即时更新）：https://tokens.sjms.ai**
 
-更新时间：`2026-08-31T09:30:09+08:00`　·　在册可领 **16** 条
+更新时间：`2026-09-07T09:30:09+08:00`　·　在册可领 **15** 条
 
 | 平台 | 地区 | 额度 | 有效期 | 核验 | 领取 |
 | --- | --- | --- | --- | --- | --- |
@@ -14,17 +14,16 @@
 | Kimi 开放平台 | 国内 | 免费 | — | 原文已核 | [官方页](https://platform.moonshot.cn/console) |
 | 腾讯混元 | 国内 | 100万 tokens（Hunyuan-embedding） | 1年 | 原文已核 | [官方页](https://console.cloud.tencent.com/hunyuan) |
 | 讯飞星火 | 国内 | 免费额度 | — | 原文已核 | [官方页](https://console.xfyun.cn/) |
-| 硅基流动 | 国内 | 免费使用 | — | 原文已核 | [官方页](https://cloud.siliconflow.cn/) |
 | Google AI Studio | 海外 | Free input & output tokens | — | 原文已核 | [官方页](https://aistudio.google.com/apikey) |
 | Groq | 海外 | RPM 10-30, RPD 100-14.4K, TPM 1.2K-70K, TPD 3.6K-2M, ASH 7.2K, ASD 28.8K | — | 原文已核 | [官方页](https://console.groq.com/keys) |
 | Cloudflare Workers AI | 海外 | 10,000 Neurons per day | 每日重置，00:00 UTC | 原文已核 | [官方页](https://dash.cloudflare.com/) |
-| Cerebras | 海外 | $5 | 30 days | 原文已核 | [官方页](https://cloud.cerebras.ai/) |
+| Cerebras | 海外 | $5 | 30 days after granted | 原文已核 | [官方页](https://cloud.cerebras.ai/) |
 | Cerebras | 海外 | RPM: 5 (gpt-oss-120b), 1 (gemma-4-31b); TPM: 30K (gpt-oss-120b), 5 (gemma-4-31b); TPH: 1M (both); TPD: 1M (both) | — | 待核·看原页 | [官方页](https://cloud.cerebras.ai/) |
-| Mistral | 海外 | Limited messages, web searches, coding sessions, image generations, and $10/mo in API credits | — | 待核·看原页 | [官方页](https://console.mistral.ai/) |
-| Together AI | 海外 | $0.00 per 1M tokens | — | 原文已核 | [官方页](https://api.together.ai/) |
+| Mistral | 海外 | Free | — | 原文已核 | [官方页](https://console.mistral.ai/) |
+| Together AI | 海外 | $0.00 per 1M tokens (input and output) | — | 原文已核 | [官方页](https://api.together.ai/) |
 | OpenRouter | 海外 | 21 个模型 prompt/completion 均为 $0 | — | 原文已核 | [官方页](https://openrouter.ai/keys) |
-| Groq | 海外 | RPM 10-30, RPD 100-14400, TPM 1.2K-70K, TPD 3.6K-500K, ASH 7.2K, ASD 28.8K | — | 原文已核 | [官方页](https://console.groq.com/keys) |
 | NVIDIA NIM | 海外 | 免费服务器端 API 用于开发 | — | 原文已核 | [官方页](https://build.nvidia.com/) |
+| Groq | 海外 | RPM 10-30, RPD 100-14400, TPM 1.2K-70K, TPD 3.6K-500K, ASH 7.2K, ASD 28.8K | — | 原文已核 | [官方页](https://console.groq.com/keys) |
 
 ## 待人工复核
 
