@@ -5,30 +5,27 @@
 
 **在线版（手机友好，随雷达即时更新）：https://tokens.sjms.ai**
 
-更新时间：`2026-09-14T09:30:15+08:00`　·　在册可领 **26** 条
+更新时间：`2026-09-21T09:30:10+08:00`　·　在册可领 **23** 条
 
 | 平台 | 地区 | 额度 | 有效期 | 核验 | 领取 |
 | --- | --- | --- | --- | --- | --- |
 | 阿里云百炼 | 国内 | 100 万 Token | 自开通百炼/模型发布/申请通过之日起 90 天内（以较晚者为准） | 原文已核 | [官方页](https://bailian.console.aliyun.com/) |
 | 智谱 BigModel | 国内 | 免费 | — | 原文已核 | [官方页](https://open.bigmodel.cn/) |
 | Kimi 开放平台 | 国内 | 免费 | — | 原文已核 | [官方页](https://platform.moonshot.cn/console) |
-| 腾讯混元 | 国内 | 共100万 tokens，共享消耗 | 资源包有效期为1年，自开通服务之日起1年内若免费资源包未使用完，则过期作废 | 原文已核 | [官方页](https://console.cloud.tencent.com/hunyuan) |
-| 讯飞星火 | 国内 | 免费额度 | — | 原文已核 | [官方页](https://console.xfyun.cn/) |
 | Google AI Studio | 海外 | Free input & output tokens | — | 原文已核 | [官方页](https://aistudio.google.com/apikey) |
-| Mistral | 海外 | Limited messages and web searches; Limited coding sessions | — | 原文已核 | [官方页](https://console.mistral.ai/) |
 | Together AI | 海外 | $0.00 / 1M tokens（输入与输出均为 $0.00） | — | 原文已核 | [官方页](https://api.together.ai/) |
-| OpenRouter | 海外 | 22 个模型 prompt/completion 均为 $0 | — | 原文已核 | [官方页](https://openrouter.ai/keys) |
-| Cloudflare Workers AI | 海外 | 10,000 Neurons per day | — | 原文已核 | [官方页](https://dash.cloudflare.com/) |
-| Groq | 海外 | RPM 10-30, RPD 100-14400, TPM 1.2K-70K, TPD 3.6K-500K, ASH 7.2K, ASD 28.8K | — | 原文已核 | [官方页](https://console.groq.com/keys) |
-| Cerebras | 海外 | $5 | 30 天 | 待核·看原页 | [官方页](https://cloud.cerebras.ai/) |
-| NVIDIA NIM | 海外 | 免费服务器端 API | — | 原文已核 | [官方页](https://build.nvidia.com/) |
+| OpenRouter | 海外 | 24 个模型 prompt/completion 均为 $0 | — | 原文已核 | [官方页](https://openrouter.ai/keys) |
 | 阿里云百炼 | 国内 | 每天 2000 次调用 | — | 原文已核 | [官方页](https://bailian.console.aliyun.com/) |
-| Google AI Studio | 海外 | 输入与输出（含思考 token）均 Free of charge | — | 原文已核 | [官方页](https://aistudio.google.com/apikey) |
+| 腾讯混元 | 国内 | 共100万 tokens，共享消耗 | 资源包有效期为1年，自开通服务之日起1年内若免费资源包未使用完，则过期作废 | 原文已核 | [官方页](https://console.cloud.tencent.com/hunyuan) |
+| Google AI Studio | 海外 | Free of charge | — | 原文已核 | [官方页](https://aistudio.google.com/apikey) |
 | Google AI Studio | 海外 | 5,000 free search requests per month | — | 原文已核 | [官方页](https://aistudio.google.com/apikey) |
-| Groq | 海外 | 按模型分档：RPM 10–30、RPD 100–14.4K、TPM 1.2K–70K、TPD 3.6K–500K、ASH 7.2K、ASD 28.8K | — | 原文已核 | [官方页](https://console.groq.com/keys) |
+| Groq | 海外 | 各模型 RPM/RPD/TPM/TPD 限额（如 openai/gpt-oss-120b：30 RPM、1K RPD、8K TPM、200K TPD） | — | 原文已核 | [官方页](https://console.groq.com/keys) |
+| Cloudflare Workers AI | 海外 | 10,000 Neurons per day | — | 原文已核 | [官方页](https://dash.cloudflare.com/) |
+| Cerebras | 海外 | $5 | 30 天 | 原文已核 | [官方页](https://cloud.cerebras.ai/) |
 | Cerebras | 海外 | 5 RPM / 30K Uncached TPM / 90K Total TPM / 1M TPH / 1M TPD | — | 原文已核 | [官方页](https://cloud.cerebras.ai/) |
 | Cerebras | 海外 | 1 RPM / 5 Uncached TPM / 30K Total TPM / 90K TPH / 1M TPD | — | 原文已核 | [官方页](https://cloud.cerebras.ai/) |
 | Mistral | 海外 | $10 /mo in API credits | — | 原文已核 | [官方页](https://console.mistral.ai/) |
+| Mistral | 海外 | Limited messages and web searches | — | 原文已核 | [官方页](https://console.mistral.ai/) |
 | Mistral | 海外 | $14.99 /mo | Valid for a maximum of 12 months | 原文已核 | [官方页](https://console.mistral.ai/) |
 | Mistral | 海外 | Up to 6x free | — | 原文已核 | [官方页](https://console.mistral.ai/) |
 | Mistral | 海外 | Up to 5x free | — | 原文已核 | [官方页](https://console.mistral.ai/) |
