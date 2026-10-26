@@ -5,36 +5,35 @@
 
 **在线版（手机友好，随雷达即时更新）：https://tokens.sjms.ai**
 
-更新时间：`2026-10-19T09:30:19+08:00`　·　在册可领 **19** 条
+更新时间：`2026-10-26T09:30:20+08:00`　·　在册可领 **20** 条
 
 | 平台 | 地区 | 额度 | 有效期 | 核验 | 领取 |
 | --- | --- | --- | --- | --- | --- |
 | 阿里云百炼 | 国内 | 100 万 Token | 自开通百炼/模型发布/申请通过之日起 90 天内（以较晚者为准） | 原文已核 | [官方页](https://bailian.console.aliyun.com/) |
 | 智谱 BigModel | 国内 | 免费 | — | 原文已核 | [官方页](https://open.bigmodel.cn/) |
+| Kimi 开放平台 | 国内 | 免费 | — | 原文已核 | [官方页](https://platform.moonshot.cn/console) |
 | Google AI Studio | 海外 | 免费输入与输出 token（未写具体额度） | — | 原文已核 | [官方页](https://aistudio.google.com/apikey) |
-| Together AI | 海外 | $0.00 / 1M tokens（输入与输出均为 $0.00） | — | 原文已核 | [官方页](https://api.together.ai/) |
-| OpenRouter | 海外 | 19 个模型 prompt/completion 均为 $0 | — | 原文已核 | [官方页](https://openrouter.ai/keys) |
+| OpenRouter | 海外 | 20 个模型 prompt/completion 均为 $0 | — | 原文已核 | [官方页](https://openrouter.ai/keys) |
 | 讯飞星火 | 国内 |  | — | 原文已核 | [官方页](https://console.xfyun.cn/) |
 | 腾讯混元 | 国内 | 共100万 tokens | 1年，自开通服务之日起1年内未使用完则过期作废 | 原文已核 | [官方页](https://console.cloud.tencent.com/hunyuan) |
-| Google AI Studio | 海外 | Free of charge | — | 原文已核 | [官方页](https://aistudio.google.com/apikey) |
 | Groq | 海外 | 按模型分档：RPM 3–30、RPD 100–14.4K、TPM 1.2K–15K、TPD 3.6K–500K、ASH 7.2K、ASD 28.8K | — | 原文已核 | [官方页](https://console.groq.com/keys) |
 | Cloudflare Workers AI | 海外 | 10,000 Neurons per day | 每日 00:00 UTC 重置 | 原文已核 | [官方页](https://dash.cloudflare.com/) |
-| Cerebras | 海外 | $5 | 30 天 | 待核·看原页 | [官方页](https://cloud.cerebras.ai/) |
 | Cerebras | 海外 | 5 RPM / 30K Uncached TPM / 90K Total TPM / 1M TPH / 1M TPD | — | 原文已核 | [官方页](https://cloud.cerebras.ai/) |
-| Mistral | 海外 | 免费 | — | 原文已核 | [官方页](https://console.mistral.ai/) |
+| Cerebras | 海外 | 1 RPM / 5 Uncached TPM / 30K Total TPM / 90K TPH / 1M TPD | — | 原文已核 | [官方页](https://cloud.cerebras.ai/) |
 | NVIDIA NIM | 海外 | 免费 | — | 原文已核 | [官方页](https://build.nvidia.com/) |
 | 阿里云百炼 | 国内 | 每天 2000 次调用 | — | 原文已核 | [官方页](https://bailian.console.aliyun.com/) |
 | Google AI Studio | 海外 | 每月 5,000 次免费搜索请求 | — | 原文已核 | [官方页](https://aistudio.google.com/apikey) |
-| Kimi 开放平台 | 国内 | 免费 | — | 原文已核 | [官方页](https://platform.moonshot.cn/console) |
+| Cerebras | 海外 | $5 | 30 天 | 原文已核 | [官方页](https://cloud.cerebras.ai/) |
+| Together AI | 海外 | 输出 $0.00（Free） | — | 原文已核 | [官方页](https://api.together.ai/) |
+| Mistral | 海外 | 免费 | — | 原文已核 | [官方页](https://console.mistral.ai/) |
+| Together AI | 海外 | $0.00 / 1M tokens（输入与输出均为 $0.00） | — | 原文已核 | [官方页](https://api.together.ai/) |
 | Mistral | 海外 | $14.99/mo | Valid for a maximum of 12 months | 原文已核 | [官方页](https://console.mistral.ai/) |
-| Together AI | 海外 | 输出 Free（输入 $0.04 / 1M tokens） | — | 原文已核 | [官方页](https://api.together.ai/) |
+| Together AI | 海外 | 输入 $0.00 / 输出 $0.00（每 1M tokens） | — | 原文已核 | [官方页](https://api.together.ai/) |
 
 ## 待人工复核
 
 以下来源整站前端渲染，脚本读不到正文。**抓不到 ≠ 对方没有免费额度**——点原页自己看：
 
-- 阿里云百炼：[原页](https://help.aliyun.com/zh/model-studio/new-free-quota)（URLError: <urlopen error timed out>）
-- 百度千帆：[原页](https://cloud.baidu.com/product/wenxinworkshop)（URLError: <urlopen error timed out>）
 - 硅基流动：[原页](https://docs.siliconflow.cn/cn/faqs/misc)（正文仅 0 字，判定为前端渲染壳——需浏览器复核）
 - 火山方舟：[原页](https://www.volcengine.com/docs/82379/1099320)（整站前端渲染，脚本抓不到正文——需浏览器复核）
 - MiniMax：[原页](https://platform.minimaxi.com/document/Price)（整站前端渲染，脚本抓不到正文——需浏览器复核）
