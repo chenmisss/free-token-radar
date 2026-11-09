@@ -5,7 +5,7 @@
 
 **在线版（手机友好，随雷达即时更新）：https://tokens.sjms.ai**
 
-更新时间：`2026-11-02T09:30:22+08:00`　·　在册可领 **20** 条
+更新时间：`2026-11-09T09:30:09+08:00`　·　在册可领 **20** 条
 
 | 平台 | 地区 | 额度 | 有效期 | 核验 | 领取 |
 | --- | --- | --- | --- | --- | --- |
@@ -13,22 +13,22 @@
 | 智谱 BigModel | 国内 | 免费 | — | 原文已核 | [官方页](https://open.bigmodel.cn/) |
 | Kimi 开放平台 | 国内 | 免费 | — | 原文已核 | [官方页](https://platform.moonshot.cn/console) |
 | Google AI Studio | 海外 | 免费输入与输出 token（额度未具体说明） | — | 原文已核 | [官方页](https://aistudio.google.com/apikey) |
-| OpenRouter | 海外 | 17 个模型 prompt/completion 均为 $0 | — | 原文已核 | [官方页](https://openrouter.ai/keys) |
+| OpenRouter | 海外 | 16 个模型 prompt/completion 均为 $0 | — | 原文已核 | [官方页](https://openrouter.ai/keys) |
 | 讯飞星火 | 国内 |  | — | 原文已核 | [官方页](https://console.xfyun.cn/) |
-| 腾讯混元 | 国内 | 共100万 tokens，共享消耗 | 1年，自开通服务之日起1年内若免费资源包未使用完，则过期作废 | 原文已核 | [官方页](https://console.cloud.tencent.com/hunyuan) |
+| 腾讯混元 | 国内 | 共100万 tokens，共享消耗 | 1年，自开通服务之日起1年内未使用完则过期作废 | 原文已核 | [官方页](https://console.cloud.tencent.com/hunyuan) |
 | Groq | 海外 | 按模型分档：RPM 3–30、RPD 100–14.4K、TPM 1.2K–15K、TPD 3.6K–500K、ASH 7.2K、ASD 28.8K | — | 原文已核 | [官方页](https://console.groq.com/keys) |
-| Cloudflare Workers AI | 海外 | 10,000 Neurons per day | — | 原文已核 | [官方页](https://dash.cloudflare.com/) |
+| Cloudflare Workers AI | 海外 | 10,000 Neurons per day | 每日重置（00:00 UTC） | 原文已核 | [官方页](https://dash.cloudflare.com/) |
 | Cerebras | 海外 | $5 | 30 天 | 待核·看原页 | [官方页](https://cloud.cerebras.ai/) |
-| Cerebras | 海外 | 5 RPM / 30K Uncached TPM / 90K Total TPM / 1M TPH / 1M TPD | — | 原文已核 | [官方页](https://cloud.cerebras.ai/) |
-| Cerebras | 海外 | 1 RPM / 5 Uncached TPM / 30K Total TPM / 90K TPH / 1M TPD | — | 原文已核 | [官方页](https://cloud.cerebras.ai/) |
+| Cerebras | 海外 | RPM 5；Uncached TPM 30K；Total TPM 90K；TPH 1M；TPD 1M | — | 原文已核 | [官方页](https://cloud.cerebras.ai/) |
+| Cerebras | 海外 | RPM 1；Uncached TPM 5；Total TPM 30K；TPH 90K；TPD 1M | — | 原文已核 | [官方页](https://cloud.cerebras.ai/) |
 | NVIDIA NIM | 海外 | 免费 | — | 原文已核 | [官方页](https://build.nvidia.com/) |
-| 阿里云百炼 | 国内 | 每天 2000 次调用 | — | 原文已核 | [官方页](https://bailian.console.aliyun.com/) |
 | Together AI | 海外 | 输入 $0.00 / 输出 $0.00 | — | 原文已核 | [官方页](https://api.together.ai/) |
 | Together AI | 海外 | 输出 $0.00 | — | 原文已核 | [官方页](https://api.together.ai/) |
 | Mistral | 海外 | 免费 | — | 原文已核 | [官方页](https://console.mistral.ai/) |
 | Google AI Studio | 海外 | 每月 5,000 次免费搜索请求 | 每月 | 原文已核 | [官方页](https://aistudio.google.com/apikey) |
-| Mistral | 海外 | $14.99/mo | Valid for a maximum of 12 months | 原文已核 | [官方页](https://console.mistral.ai/) |
-| Together AI | 海外 | 输入 $0.00 / 输出 $0.00（每 1M tokens） | — | 原文已核 | [官方页](https://api.together.ai/) |
+| Mistral | 海外 | $14.99/mo 的 Pro 计划对学生开放 | 最长 12 个月 | 原文已核 | [官方页](https://console.mistral.ai/) |
+| 阿里云百炼 | 国内 | 已发放额度可继续使用至到期或耗尽 | — | 原文已核 | [官方页](https://bailian.console.aliyun.com/) |
+| Together AI | 海外 | Free | — | 原文已核 | [官方页](https://api.together.ai/) |
 
 ## 待人工复核
 
@@ -38,6 +38,7 @@
 - 火山方舟：[原页](https://www.volcengine.com/docs/82379/1099320)（整站前端渲染，脚本抓不到正文——需浏览器复核）
 - MiniMax：[原页](https://platform.minimaxi.com/document/Price)（整站前端渲染，脚本抓不到正文——需浏览器复核）
 - 阶跃星辰：[原页](https://platform.stepfun.com/docs)（整站前端渲染，脚本抓不到正文——需浏览器复核）
+- Google AI Studio：[原页](https://ai.google.dev/gemini-api/docs/pricing)（正文仅 60 字，判定为前端渲染壳——需浏览器复核）
 
 ## 社区线索（仅供发现，不入册）
 
